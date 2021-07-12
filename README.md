@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge. Check my [log](log.md)
+ I've joined the #100DaysOfCode Challenge. Check my [log](log.md)!
 
 ## Contents
 
