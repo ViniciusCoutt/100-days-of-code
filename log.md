@@ -2,7 +2,7 @@
 
 ### Day 0: July 12, 2021 
 
-###**Today's Progress**:
+### Today's Progress:
 Hoje pratiquei um pouco de de CSS flexbox. 
 Resumo ativo do que usei: 
 Para mechermos com flexbox temos que usar o display:flex no elemento pai/container de um conjunto de elementos. Isso ira permitir que movamos os elementos no eixo x ou y. Para mover no eixo x usamos a propriedade 'justify-content' com os valores: flex-start(padrão), flex-end, center, space-between e space-around. No eixo y usamos o 'align-items' com os valores: flex-start(padrão), flex-end e center. 
