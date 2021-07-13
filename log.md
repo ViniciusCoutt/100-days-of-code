@@ -6,7 +6,7 @@
 Hoje pratiquei um pouco de de CSS flexbox. 
 Resumo ativo do que usei: 
 Para mechermos com flexbox temos que usar o display:flex no elemento pai/container de um conjunto de elementos. Isso ira permitir que movamos os elementos no eixo x ou y. Para mover no eixo x usamos a propriedade 'justify-content' com os valores: flex-start(padrão), flex-end, center, space-between e space-around. No eixo y usamos o 'align-items' com os valores: flex-start(padrão), flex-end e center. 
-Além de mover pelos eixos, podemos mudar a ordem e a forma que os elementos são apresentados com o 'flex-direction' com os valores: row, column, column-reverse e row-reverse. Por exemplo: temos a sequencia de números 1 2 3 na tela, provavelmente já estara com o valor 'row' como padrão pois os elementos aparecerão um ao lado do outro, no eixo x. Já com o 'column' essa sequencia ficará posicionada no eixo y, em forma de coluna. O reverse, como o nome, já diz irá inverter os elementos, ou seja, de 123 ficará 321.
+Além de mover pelos eixos, podemos mudar a ordem e a forma que os elementos são apresentados com o 'flex-direction' com os valores: row, column, column-reverse e row-reverse. Por exemplo: temos a sequencia de números 1 2 3 na tela, provavelmente já estara com o valor 'row' como padrão pois os elementos aparecerão um ao lado do outro horizontalmente. Já com o 'column' essa sequencia ficará posicionada no eixo y, em forma de coluna. O reverse, como o nome, já diz irá inverter os elementos, ou seja, de 123 ficará 321.
 
 **Thoughts:** 
 Dia de organizar os próximos
