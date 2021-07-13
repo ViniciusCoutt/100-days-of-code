@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 12, 2021 
+### Day 1: July 12, 2021 
 
 ### Today's Progress:
 Hoje pratiquei um pouco de de CSS flexbox. 
