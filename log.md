@@ -18,7 +18,13 @@ Flexbox Defense(http://www.flexboxdefense.com/)
 
 ### Day 2: July 13, 2021
 
-### Today's Progress: Hoje vi pouca teoria e fui sofrer na prática com o css. Tirei do bau um design que tava enrolando pra fazer. Travei um pouco mas deu pra resolver e entender os maiores problemas. 
+### Today's Progress: 
+Hoje vi pouca teoria e fui sofrer na prática com o css. Tirei do bau um design que tava enrolando pra fazer. Travei um pouco mas deu pra resolver e entender os maiores problemas. 
+**Thoughts:** 
+Foco
+
+**Link to work:** 
+[RockSide](https://github.com/ViniciusCoutt/rockside)
 
 <!--[Calculator App](http://www.example.com) -->
 
