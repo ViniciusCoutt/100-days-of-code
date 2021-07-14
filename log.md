@@ -15,6 +15,11 @@ Dia de organizar os próximos
 **Link to work:** 
 Flexbox Defense(http://www.flexboxdefense.com/)
 
+
+### Day 2: July 13, 2021
+
+### Today's Progress: Hoje vi pouca teoria e fui sofrer na prática com o css. Tirei do bau um design que tava enrolando pra fazer. Travei um pouco mas deu pra resolver e entender os maiores problemas. 
+
 <!--[Calculator App](http://www.example.com) -->
 
 <!--
