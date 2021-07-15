@@ -26,6 +26,17 @@ Foco
 **Link to work:** 
 [RockSide](https://github.com/ViniciusCoutt/rockside)
 
+### Day 3: July 14, 2021
+
+### Today's Progress: 
+Vi pouquissima teoria; resolvi o problema de ontem com 2 linhas, usando display grid; "finalizei" a parte de midia e noticias. 
+
+**Thoughts:** 
+Perdemos muito tempo com coisa besta
+
+**Link to work:** 
+[RockSide](https://github.com/ViniciusCoutt/rockside)
+
 <!--[Calculator App](http://www.example.com) -->
 
 <!--
