@@ -20,6 +20,7 @@ Flexbox Defense(http://www.flexboxdefense.com/)
 
 ### Today's Progress: 
 Hoje vi pouca teoria e fui sofrer na prática com o css. Tirei do bau um design que tava enrolando pra fazer. Travei um pouco mas deu pra resolver e entender os maiores problemas. 
+
 **Thoughts:** 
 Foco
 
@@ -29,7 +30,7 @@ Foco
 ### Day 3: July 14, 2021
 
 ### Today's Progress: 
-Vi pouquissima teoria; resolvi o problema de ontem com 2 linhas, usando display grid; "finalizei" a parte de midia e noticias. 
+Vi pouquissima teoria; resolvi o problema de ontem com 2 linhas, usando display grid; "finalizei" a parte de midia e noticias; aprendi sobre responsividade de textos. 
 
 **Thoughts:** 
 Perdemos muito tempo com coisa besta
