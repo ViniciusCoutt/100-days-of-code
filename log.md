@@ -43,10 +43,9 @@ Perdemos muito tempo com coisa besta
 ### Day 4: July 15, 2021
 
 ### Today's Progress: 
-
+Vi mais sobre posicionamento, display grid e usei mais uma vez no projeto para posicionar as caixas de noticia. 
 
 **Thoughts:** 
-Perdemos muito tempo com coisa besta
 
 **Link to work:** 
 [RockSide](https://github.com/ViniciusCoutt/rockside)
