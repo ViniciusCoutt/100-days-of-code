@@ -27,10 +27,23 @@ Foco
 **Link to work:** 
 [RockSide](https://github.com/ViniciusCoutt/rockside)
 
+
 ### Day 3: July 14, 2021
 
 ### Today's Progress: 
 Vi pouquissima teoria; resolvi o problema de ontem com 2 linhas, usando display grid; "finalizei" a parte de midia e noticias; aprendi sobre responsividade de textos. 
+
+**Thoughts:** 
+Perdemos muito tempo com coisa besta
+
+**Link to work:** 
+[RockSide](https://github.com/ViniciusCoutt/rockside)
+
+
+### Day 4: July 15, 2021
+
+### Today's Progress: 
+
 
 **Thoughts:** 
 Perdemos muito tempo com coisa besta
