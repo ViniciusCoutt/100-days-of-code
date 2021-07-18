@@ -50,6 +50,16 @@ Vi mais sobre posicionamento, display grid e usei mais uma vez no projeto para p
 **Link to work:** 
 [RockSide](https://github.com/ViniciusCoutt/rockside)
 
+### Day 5: July 16, 2021
+
+### Today's Progress: 
+Não pratiquei muito mais li sobre float (uma forma de posicionamento antiga) e um pouco mais de flexbox. Percebi que terei q usar no meu projeto em uma parte que usei grid
+
+**Thoughts:** 
+
+**Link to work:** 
+  Nenhun
+
 <!--[Calculator App](http://www.example.com) -->
 
 <!--
