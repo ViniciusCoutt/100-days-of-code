@@ -58,7 +58,39 @@ Não pratiquei muito mais li sobre float (uma forma de posicionamento antiga) e 
 **Thoughts:** 
 
 **Link to work:** 
-  Nenhun
+  Nenhum
+  
+### Day 6: July 17, 2021
+
+### Today's Progress: 
+Hoje foi bem legal, aprendi mais um pouco sobre advanced positioning. Conseguir entender de forma mais clara o position relative e o z-index. 
+
+**Thoughts:** 
+
+  
+### Day 7: July 18, 2021
+
+### Today's Progress: 
+Primeira semana finalizada com sucesso !
+
+Hoje foi o dia de estudar responsividade. 
+Vi mais sobre design responsivo e sanei algumas dúvidas que tinha. Além de ver também sobre responsividade de imagens, já conhecia o modo <picture> mas o resto foi novo. 
+
+
+**Thoughts:** 
+  Ainda motivado
+ 
+### Day 8: July 20, 2021
+
+### Today's Progress: 
+Pulei o dia de ontem já que vi beemm pouca coisa prática. Então hoje foi o dia 8, finalmente voltei a estudar js!! Bora sofrerrr. Me proibi de ver mais coisa de html e css e só vou praticar mesmo #mãonamassa
+
+#100DaysOfCode/08
+  
+**Thoughts:** 
+Empolgado
+
+
 
 <!--[Calculator App](http://www.example.com) -->
 
