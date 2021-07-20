@@ -65,7 +65,7 @@ Não pratiquei muito mais li sobre float (uma forma de posicionamento antiga) e 
 ### Today's Progress: 
 Hoje foi bem legal, aprendi mais um pouco sobre advanced positioning. Conseguir entender de forma mais clara o position relative e o z-index. 
 
-**Thoughts:** 
+Thoughts: Conceitos já vistos estão começando a se esclarecer na mente e os novos são entendidos com mais facilidade. Gostando muito! 
 
   
 ### Day 7: July 18, 2021
@@ -88,7 +88,7 @@ Pulei o dia de ontem já que vi beemm pouca coisa prática. Então hoje foi o di
 #100DaysOfCode/08
   
 **Thoughts:** 
-Empolgado
+
 
 
 
