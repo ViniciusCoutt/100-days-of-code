@@ -89,8 +89,16 @@ Pulei o dia de ontem já que vi beemm pouca coisa prática. Então hoje foi o di
   
 **Thoughts:** 
 
+### Day 9: July 21, 2021
 
+### Today's Progress: 
+Hoje vi sobre variáveis e um pouco sobre tratamento de dados. Estou estudando por vídeo e com a plataforma freecodecamp. Testei a Grasshopper da google mas não gostei tanto, então vou continuar na freecode mesmo. Não pratiquei html/css hoje.
 
+#100DaysOfCode/08
+  
+**Thoughts:** 
+Acho que vou ter uma boa progressão no js. Ainda lembro por cima sobre lógica de programação. Ao que me parece só manter a rotina e ir praticando bastante. 
+ 
 
 <!--[Calculator App](http://www.example.com) -->
 
