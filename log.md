@@ -85,7 +85,6 @@ Vi mais sobre design responsivo e sanei algumas dúvidas que tinha. Além de ver
 ### Today's Progress: 
 Pulei o dia de ontem já que vi beemm pouca coisa prática. Então hoje foi o dia 8, finalmente voltei a estudar js!! Bora sofrerrr. Me proibi de ver mais coisa de html e css e só vou praticar mesmo #mãonamassa
 
-#100DaysOfCode/08
   
 **Thoughts:** 
 
@@ -94,7 +93,6 @@ Pulei o dia de ontem já que vi beemm pouca coisa prática. Então hoje foi o di
 ### Today's Progress: 
 Hoje vi sobre variáveis e um pouco sobre tratamento de dados. Estou estudando por vídeo e com a plataforma freecodecamp. Testei a Grasshopper da google mas não gostei tanto, então vou continuar na freecode mesmo. Não pratiquei html/css hoje.
 
-#100DaysOfCode/08
   
 **Thoughts:** 
 Acho que vou ter uma boa progressão no js. Ainda lembro por cima sobre lógica de programação. Ao que me parece só manter a rotina e ir praticando bastante. 
