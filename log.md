@@ -77,7 +77,7 @@ Hoje foi o dia de estudar responsividade.
 Vi mais sobre design responsivo e sanei algumas dúvidas que tinha. Além de ver também sobre responsividade de imagens, já conhecia o modo <picture> mas o resto foi novo. 
 
 
-**Thoughts:** 
+Thoughts:
   Ainda motivado
  
 ### Day 8: July 20, 2021
@@ -86,7 +86,7 @@ Vi mais sobre design responsivo e sanei algumas dúvidas que tinha. Além de ver
 Pulei o dia de ontem já que vi beemm pouca coisa prática. Então hoje foi o dia 8, finalmente voltei a estudar js!! Bora sofrerrr. Me proibi de ver mais coisa de html e css e só vou praticar mesmo #mãonamassa
 
   
-**Thoughts:** 
+Thoughts:
 
 ### Day 9: July 21, 2021
 
@@ -94,10 +94,70 @@ Pulei o dia de ontem já que vi beemm pouca coisa prática. Então hoje foi o di
 Hoje vi sobre variáveis e um pouco sobre tratamento de dados. Estou estudando por vídeo e com a plataforma freecodecamp. Testei a Grasshopper da google mas não gostei tanto, então vou continuar na freecode mesmo. Não pratiquei html/css hoje.
 
   
-**Thoughts:** 
+Thoughts:
 Acho que vou ter uma boa progressão no js. Ainda lembro por cima sobre lógica de programação. Ao que me parece só manter a rotina e ir praticando bastante. 
- 
+  
+### Day 10: July 22, 2021
 
+### Today's Progress: Hoje vi sobre tratamento de dados. Converção de string pra number e vice-versa e o básico de formatação de strings e number. A mais legal e avancadinha foi a função de transformar um número qualquer em uma unidade monetária com o 'toLocaleString'. 
+
+Thoughts: 
+  
+  
+### Day 11: July 23, 2021
+
+### Today's Progress: 
+
+Thoughts: 
+  
+  
+### Day 12: July 24, 2021
+
+### Today's Progress: 
+
+Thoughts: 
+  
+  
+### Day 13: July 25, 2021
+
+### Today's Progress: 
+
+Thoughts: 
+  
+  
+### Day 14: July 26, 2021
+
+### Today's Progress: 
+
+Thoughts: 
+  
+  
+### Day 15: July 27, 2021
+
+### Today's Progress: 
+
+Thoughts: 
+  
+### Day 16: July 28, 2021
+
+### Today's Progress: 
+
+Thoughts: 
+  
+### Day 17: July 29, 2021
+
+### Today's Progress: 
+
+Thoughts: 
+  
+  
+### Day 18: July 30, 2021
+
+### Today's Progress: 
+
+Thoughts: 
+
+ 
 <!--[Calculator App](http://www.example.com) -->
 
 <!--
