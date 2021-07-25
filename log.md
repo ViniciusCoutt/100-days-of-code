@@ -113,7 +113,7 @@ Thoughts:
   
 ### Day 12: July 24, 2021
 
-### Today's Progress: 
+### Today's Progress: Dia de ver sobre operadores no js e um pouco de DOM. Vou ver mais sobre amanhã
 
 Thoughts: 
   
