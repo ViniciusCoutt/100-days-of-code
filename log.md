@@ -106,7 +106,7 @@ Thoughts:
   
 ### Day 11: July 23, 2021
 
-### Today's Progress: 
+### Today's Progress: Mais um pouco de tratamento de dados. Hoje fiquei só no freecodecamp mesmo. Aprendi mais alguns detalhes. 
 
 Thoughts: 
   
