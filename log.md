@@ -120,14 +120,14 @@ Thoughts:
   
 ### Day 13: July 25, 2021
 
-### Today's Progress: 
+### Today's Progress: Hoje foi dia de ver mais um pouco de DOM. E praticar com eventos simples.
 
 Thoughts: 
   
   
 ### Day 14: July 26, 2021
 
-### Today's Progress: 
+### Today's Progress: Estudei hoje estruturas de repetição no js e iniciei o esbosso em html do execício.
 
 Thoughts: 
   
