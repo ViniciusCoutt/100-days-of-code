@@ -99,42 +99,48 @@ Acho que vou ter uma boa progressão no js. Ainda lembro por cima sobre lógica 
   
 ### Day 10: July 22, 2021
 
-### Today's Progress: Hoje vi sobre tratamento de dados. Converção de string pra number e vice-versa e o básico de formatação de strings e number. A mais legal e avancadinha foi a função de transformar um número qualquer em uma unidade monetária com o 'toLocaleString'. 
+### Today's Progress:
+  Hoje vi sobre tratamento de dados. Converção de string pra number e vice-versa e o básico de formatação de strings e number. A mais legal e avancadinha foi a função de transformar um número qualquer em uma unidade monetária com o 'toLocaleString'. 
 
 Thoughts: 
   
   
 ### Day 11: July 23, 2021
 
-### Today's Progress: Mais um pouco de tratamento de dados. Hoje fiquei só no freecodecamp mesmo. Aprendi mais alguns detalhes. 
+### Today's Progress:
+  Mais um pouco de tratamento de dados. Hoje fiquei só no freecodecamp mesmo. Aprendi mais alguns detalhes. 
 
 Thoughts: 
   
   
 ### Day 12: July 24, 2021
 
-### Today's Progress: Dia de ver sobre operadores no js e um pouco de DOM. Vou ver mais sobre amanhã
+### Today's Progress: 
+  Dia de ver sobre operadores no js e um pouco de DOM. Vou ver mais sobre amanhã
 
 Thoughts: 
   
   
 ### Day 13: July 25, 2021
 
-### Today's Progress: Hoje foi dia de ver mais um pouco de DOM. E praticar com eventos simples.
+### Today's Progress:
+  Hoje foi dia de ver mais um pouco de DOM. E praticar com eventos simples.
 
 Thoughts: 
   
   
 ### Day 14: July 26, 2021
 
-### Today's Progress: Estudei hoje estruturas de repetição no js e iniciei o esbosso em html do execício.
+### Today's Progress: 
+  Estudei hoje estruturas condicionais no js e iniciei o esbosso em html do execício.
 
 Thoughts: 
   
   
 ### Day 15: July 27, 2021
 
-### Today's Progress: Dia de bater cabeça e realmente aprender com prática. Fiz 2 pages simples com oq vinha estudando. Pratiquei o uso de DOM, operadores, condições e etc.
+### Today's Progress:
+  Dia de bater cabeça e realmente aprender com prática. Fiz 2 pages simples com oq vinha estudando. Pratiquei o uso de DOM, operadores, condições e etc.
 
 Thoughts: Os primeiros códigos sempre são mais complicadinhos. Preciso me acostumar em testar o código sempre, e não tentar ir direto terminando tudo.
   
