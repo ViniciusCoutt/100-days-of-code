@@ -134,9 +134,9 @@ Thoughts:
   
 ### Day 15: July 27, 2021
 
-### Today's Progress: 
+### Today's Progress: Dia de bater cabeça e realmente aprender com prática. Fiz 2 pages simples com oq vinha estudando. Pratiquei o uso de DOM, operadores, condições e etc.
 
-Thoughts: 
+Thoughts: Os primeiros códigos sempre são mais complicadinhos. Preciso me acostumar em testar o código sempre, e não tentar ir direto terminando tudo.
   
 ### Day 16: July 28, 2021
 
