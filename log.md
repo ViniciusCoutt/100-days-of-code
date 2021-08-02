@@ -162,15 +162,15 @@ Thoughts:
 ### Today's Progress: 
   Hoje vi sobre repetições no js. E terminei os primeiros exercícios propostos de condicionais.
 
-  Link to work: [hora do dia](https://github.com/ViniciusCoutt/exercicios-js/tree/main/horadodia) e [Ano de nascimento](https://github.com/ViniciusCoutt/exercicios-    js/tree/main/anodenascimento)
+  Link to work: [hora do dia](https://github.com/ViniciusCoutt/exercicios-js/tree/main/horadodia) e [Ano de nascimento](https://github.com/ViniciusCoutt/exercicios-js/tree/main/anodenascimento)
  
   
 ### Day 19: August 01, 2021
 
 ### Today's Progress:
-  Hoje terminei os exercícios propostos com repetição. 
+  Hoje terminei os exercícios propostos de repetição. 
   
-Thoughts:Dia produtivo. 
+Thoughts: Dia produtivo. 
   
 Link to work: [tabuada](https://github.com/ViniciusCoutt/exercicios-js/tree/main/tabuada) e [contador](https://github.com/ViniciusCoutt/exercicios-js/tree/main/contador)
  
