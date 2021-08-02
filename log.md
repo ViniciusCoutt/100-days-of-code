@@ -144,24 +144,29 @@ Thoughts:
 
 Thoughts: Os primeiros códigos sempre são mais complicadinhos. Preciso me acostumar em testar o código sempre, e não tentar ir direto terminando tudo.
   
-### Day 16: July 28, 2021
+### Day 16: July 29, 2021
 
 ### Today's Progress: 
+  Hoje vi um pouco de array no freecodecomp e terminei um exercício de js. Pulei o dia de ontem pq fiz um grande nada.
 
-Thoughts: 
+Thoughts: É mt bom terminar e entender algo q pra vc era grego Cara com lágrimas de alegria. 
   
-### Day 17: July 29, 2021
+### Day 17: July 30, 2021
 
 ### Today's Progress: 
-
+  +1 dia com o freecodecomp. Vi sobre funções e modifiquei um pouco os exercícios que tinha feito e joguei no github.
 Thoughts: 
   
   
-### Day 18: July 30, 2021
+### Day 18: July 31, 2021
 
-### Today's Progress: 
+### Today's Progress: Hoje vi sobre repetições no js.
 
-Thoughts: 
+Link to work: hora do dia(https://github.com/ViniciusCoutt/exercicios-js/tree/main/horadodia)
+  
+  
+  
+  
 
  
 <!--[Calculator App](http://www.example.com) -->
