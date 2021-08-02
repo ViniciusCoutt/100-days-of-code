@@ -157,14 +157,23 @@ Thoughts: É mt bom terminar e entender algo q pra vc era grego Cara com lágrim
   +1 dia com o freecodecomp. Vi sobre funções e modifiquei um pouco os exercícios que tinha feito e joguei no github.
 Thoughts: 
   
-  
 ### Day 18: July 31, 2021
 
-### Today's Progress: Hoje vi sobre repetições no js.
+### Today's Progress: 
+  Hoje vi sobre repetições no js. E terminei os primeiros exercícios propostos de condicionais.
 
-Link to work: hora do dia(https://github.com/ViniciusCoutt/exercicios-js/tree/main/horadodia)
+  Link to work: [hora do dia](https://github.com/ViniciusCoutt/exercicios-js/tree/main/horadodia) e [Ano de nascimento](https://github.com/ViniciusCoutt/exercicios-    js/tree/main/anodenascimento)
+ 
   
+### Day 19: August 01, 2021
+
+### Today's Progress:
+  Hoje terminei os exercícios propostos com repetição. 
   
+Thoughts:Dia produtivo. 
+  
+Link to work: [tabuada](https://github.com/ViniciusCoutt/exercicios-js/tree/main/tabuada) e [contador](https://github.com/ViniciusCoutt/exercicios-js/tree/main/contador)
+ 
   
   
 
