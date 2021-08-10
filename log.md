@@ -144,6 +144,7 @@ Thoughts:
 
 Thoughts: Os primeiros códigos sempre são mais complicadinhos. Preciso me acostumar em testar o código sempre, e não tentar ir direto terminando tudo.
   
+  
 ### Day 16: July 29, 2021
 
 ### Today's Progress: 
@@ -151,18 +152,21 @@ Thoughts: Os primeiros códigos sempre são mais complicadinhos. Preciso me acos
 
 Thoughts: É mt bom terminar e entender algo q pra vc era grego Cara com lágrimas de alegria. 
   
+  
 ### Day 17: July 30, 2021
 
 ### Today's Progress: 
   +1 dia com o freecodecomp. Vi sobre funções e modifiquei um pouco os exercícios que tinha feito e joguei no github.
 Thoughts: 
   
+  
 ### Day 18: July 31, 2021
 
 ### Today's Progress: 
   Hoje vi sobre repetições no js. E terminei os primeiros exercícios propostos de condicionais.
 
-  Link to work: [hora do dia](https://github.com/ViniciusCoutt/exercicios-js/tree/main/horadodia) e [Ano de nascimento](https://github.com/ViniciusCoutt/exercicios-js/tree/main/anodenascimento)
+  Link to work:
+  [hora do dia](https://github.com/ViniciusCoutt/exercicios-js/tree/main/horadodia) e [Ano de nascimento](https://github.com/ViniciusCoutt/exercicios-js/tree/main/anodenascimento)
  
   
 ### Day 19: August 01, 2021
@@ -172,11 +176,91 @@ Thoughts:
   
 Thoughts: Dia produtivo. 
   
-Link to work: [tabuada](https://github.com/ViniciusCoutt/exercicios-js/tree/main/tabuada) e [contador](https://github.com/ViniciusCoutt/exercicios-js/tree/main/contador)
+Link to work: 
+  [tabuada](https://github.com/ViniciusCoutt/exercicios-js/tree/main/tabuada) e [contador](https://github.com/ViniciusCoutt/exercicios-js/tree/main/contador)
+   
+  
+### Day 20: August 02, 2021
+
+### Today's Progress: + sobre arrays hoje (Estudo)
+
+Thoughts:  
+  
+Link to work:
+  
+
+### Day 21: August 03, 2021
+
+### Today's Progress: Terminei a parte mais chatinha do projeto. Começar tudo do zero é complicado!
+
+Thoughts:  Ver a teoria de funções e arrays é uma coisa, agora aplicar corretamente já são outros 500. Ao menos a parte mais difícil ja fiz 
+  
+Link to work:
+  [Banco de valores](https://github.com/ViniciusCoutt/exercicios-js/tree/main/tabuada) e [contador](https://github.com/ViniciusCoutt/exercicios-js/tree/main/Banco de valores)
  
   
   
+  
+### Day 22: August 04, 2021
 
+### Today's Progress: Terminei o exercício!!! Pratiquei o uso de funções, arrays, e condicionais.
+  
+Thoughts: Muito loco quando aquele monte de letrinha começa a fazer sentido KKKKK
+  
+Link to work: 
+  [Banco de valores](https://github.com/ViniciusCoutt/exercicios-js/tree/main/tabuada) e [contador](https://github.com/ViniciusCoutt/exercicios-js/tree/main/Banco de valores)
+  
+  
+### Day 23: August 05, 2021
+
+### Today's Progress: Só editei o projeto q tava largado. Voltei a edita-lo
+
+Thoughts:  Dia meio meh
+  
+Link to work:
+  [RockSide](https://github.com/ViniciusCoutt/rockside)
+  
+  
+### Day 24: August 07, 2021
+
+### Today's Progress: Revisão do projeto js e pratica de css: consertando a responsividade.
+
+Thoughts:  
+  
+Link to work:
+  [RockSide](https://github.com/ViniciusCoutt/rockside)
+  [Banco de valores](https://github.com/ViniciusCoutt/exercicios-js/tree/main/tabuada) e [contador](https://github.com/ViniciusCoutt/exercicios-js/tree/main/Banco de valores)
+  
+  
+### Day 25: August 08, 2021
+
+### Today's Progress: Pratica de css: consertando o footer e editando o title.
+
+Thoughts:  
+  
+Link to work:
+  [RockSide](https://github.com/ViniciusCoutt/rockside)
+  
+ 
+### Day 26: August 09, 2021
+
+### Today's Progress: Primeira 'aula' de lógica de programação, vscode configurado pra rodar c++, e separado os sites para praticar.
+
+Thoughts:  
+  
+Link to work:
+ 
+
+### Day 27: August 10, 2021
+
+### Today's Progress: Pratica de css, 
+
+Thoughts:  
+  
+Link to work:
+
+  
+  
  
 <!--[Calculator App](http://www.example.com) -->
 
