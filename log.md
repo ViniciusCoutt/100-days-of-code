@@ -253,11 +253,11 @@ Link to work:
 
 ### Day 27: August 10, 2021
 
-### Today's Progress: Pratica de css, 
+### Today's Progress: Pratica de css. Treinando responsividade.
 
-Thoughts:  
+Thoughts: SOFRIMENTO. Acredito que desafios como esse são exemplos de coisas que não são possíveis na construção ( ou são bem difíceis )
   
-Link to work:
+Link to work: [RockSide](https://github.com/ViniciusCoutt/rockside)
 
   
   
