@@ -258,9 +258,17 @@ Link to work:
 Thoughts: SOFRIMENTO. Acredito que desafios como esse são exemplos de coisas que não são possíveis na construção ( ou são bem difíceis )
   
 Link to work: [RockSide](https://github.com/ViniciusCoutt/rockside)
+  
+  
+  https://cssbattle.dev/play/5
 
+### Day 28: August 12, 2021
   
+### Today's Progress: Pratica de css. Revisão de JS e conhecimento de C++
   
+Thoughts:
+  
+Link to work: https://cssbattle.dev/play/5
  
 <!--[Calculator App](http://www.example.com) -->
 
