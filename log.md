@@ -199,8 +199,6 @@ Link to work:
   [Banco de valores](https://github.com/ViniciusCoutt/exercicios-js/tree/main/tabuada) e [contador](https://github.com/ViniciusCoutt/exercicios-js/tree/main/Banco de valores)
  
   
-  
-  
 ### Day 22: August 04, 2021
 
 ### Today's Progress: Terminei o exercício!!! Pratiquei o uso de funções, arrays, e condicionais.
@@ -270,16 +268,18 @@ Thoughts:
   
 Link to work: https://cssbattle.dev/play/5
   
+  
+  
 ### Day 29: August 14, 2021
   
-### Today's Progress: Prática/teoria com o freecodecamp
+### Today's Progress: Prática/teoria com o freecodecamp e um pouco de css grid com Grid Garden.
   
 Thoughts: Um pouco desmotivado com JS. Vou especificar mais os planos essa semana. 
   
 Link to work: 
   
   
-### Day 2*: August 15, 2021
+### Day 30: August 15, 2021
   
 ### Today's Progress: 
   
