@@ -269,6 +269,23 @@ Link to work: [RockSide](https://github.com/ViniciusCoutt/rockside)
 Thoughts:
   
 Link to work: https://cssbattle.dev/play/5
+  
+### Day 29: August 14, 2021
+  
+### Today's Progress: Prática/teoria com o freecodecamp
+  
+Thoughts: Um pouco desmotivado com JS. Vou especificar mais os planos essa semana. 
+  
+Link to work: 
+  
+  
+### Day 2*: August 15, 2021
+  
+### Today's Progress: 
+  
+Thoughts:
+  
+Link to work: 
  
 <!--[Calculator App](http://www.example.com) -->
 
