@@ -279,11 +279,11 @@ Thoughts: Um pouco desmotivado com JS. Vou especificar mais os planos essa seman
 Link to work: 
   
   
-### Day 30: August 15, 2021
+### Day 30: August 16, 2021
   
-### Today's Progress: 
+### Today's Progress: Dei uma revisada e esclarecida sobre variáveis, objetos e arrays. 
   
-Thoughts:
+Thoughts: Voltei a ver os vídeos da rocketseat e acho que vou gostar bastante.
   
 Link to work: 
  
