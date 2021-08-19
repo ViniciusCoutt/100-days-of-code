@@ -269,14 +269,11 @@ Thoughts:
 Link to work: https://cssbattle.dev/play/5
   
   
-  
 ### Day 29: August 14, 2021
   
 ### Today's Progress: Prática/teoria com o freecodecamp e um pouco de css grid com Grid Garden.
   
 Thoughts: Um pouco desmotivado com JS. Vou especificar mais os planos essa semana. 
-  
-Link to work: 
   
   
 ### Day 30: August 16, 2021
@@ -285,7 +282,19 @@ Link to work:
   
 Thoughts: Voltei a ver os vídeos da rocketseat e acho que vou gostar bastante.
   
-Link to work: 
+  
+### Day 31: August 17, 2021
+  
+### Today's Progress: Revisada e esclarecida sobre funções.
+  
+Thoughts: 'Motivação' voltou! 
+  
+### Day 32: August 18, 2021
+  
+### Today's Progress: Entendendo melhor alguns tipos funções e manipulação de dados.
+  
+  
+
  
 <!--[Calculator App](http://www.example.com) -->
 
