@@ -293,6 +293,16 @@ Thoughts: 'Motivação' voltou!
   
 ### Today's Progress: Entendendo melhor alguns tipos funções e manipulação de dados.
   
+### Day 33: August 19, 2021
+  
+### Today's Progress: Vendo novas expressões e operadores importantes e seus conceitos.
+  
+### Day 34: August 20, 2021
+  
+### Today's Progress: Finalizado o guia estelar de JS da rocketseat, foi muito bom para revisar conceitos e aprender alguns novos. 
+
+Thoughts: Agora sim partir pros exercícios :D
+  
   
 
  
