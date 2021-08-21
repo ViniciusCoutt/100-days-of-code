@@ -299,9 +299,13 @@ Thoughts: 'Motivação' voltou!
   
 ### Day 34: August 20, 2021
   
-### Today's Progress: Finalizado o guia estelar de JS da rocketseat, foi muito bom para revisar conceitos e aprender alguns novos. 
+### Today's Progress: Finalizado o guia estelar de JS da rocketseat, foi muito bom para revisar conceitos e aprender alguns novos. Fiz um dos exercícios 
 
 Thoughts: Agora sim partir pros exercícios :D
+
+Link to work: 
+  [notasEscolares](https://github.com/ViniciusCoutt/exercicios-js/tree/main/notasEscolares)
+
   
   
 
