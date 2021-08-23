@@ -305,7 +305,14 @@ Thoughts: Agora sim partir pros exercícios :D
 
 Link to work: 
   [notasEscolares](https://github.com/ViniciusCoutt/exercicios-js/tree/main/notasEscolares)
+  
+### Day 35: August 21, 2021
+  
+### Today's Progress: Leitura sobre metodologias ágeis. Maior esclarecimento sobre display grid.
 
+### Day 36: August 23, 2021
+  
+### Today's Progress: Prática de JS.
   
   
 
