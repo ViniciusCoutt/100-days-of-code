@@ -315,8 +315,8 @@ Link to work:
 ### Today's Progress: Prática de JS.
 
 Link to work: 
-  [salarioliquido](https://github.com/ViniciusCoutt/exercicios-js/tree/main/salarioliquido)
-  [mescorrespondente](https://github.com/ViniciusCoutt/exercicios-js/tree/main/mescorrespondente)
+  [salarioliquido](https://github.com/ViniciusCoutt/exercicios-js/tree/main/salarioliquido),
+  [mescorrespondente](https://github.com/ViniciusCoutt/exercicios-js/tree/main/mescorrespondente),
   [maiorque](https://github.com/ViniciusCoutt/exercicios-js/tree/main/maiorque)
   
 
