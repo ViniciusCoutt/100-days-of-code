@@ -320,7 +320,13 @@ Link to work:
   [maiorque](https://github.com/ViniciusCoutt/exercicios-js/tree/main/maiorque)
   
 
- 
+### Day 37: August 24, 2021
+  
+### Today's Progress: Prática de JS.
+
+Link to work: [fluxodecaixo](https://github.com/ViniciusCoutt/exercicios-js/tree/main/fluxodecaixa)
+  
+  
 <!--[Calculator App](http://www.example.com) -->
 
 <!--
