@@ -326,6 +326,12 @@ Link to work:
 
 Link to work: [fluxodecaixo](https://github.com/ViniciusCoutt/exercicios-js/tree/main/fluxodecaixa)
   
+### Day 38: August 30, 2021
+  
+### Today's Progress: Prática de JS.
+
+Link to work: [conversaodeunidade](https://github.com/ViniciusCoutt/exercicios-js/tree/main/conversaodeunidade)
+  
   
 <!--[Calculator App](http://www.example.com) -->
 
