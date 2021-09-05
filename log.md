@@ -332,6 +332,17 @@ Link to work: [fluxodecaixo](https://github.com/ViniciusCoutt/exercicios-js/tree
 
 Link to work: [conversaodeunidade](https://github.com/ViniciusCoutt/exercicios-js/tree/main/conversaodeunidade)
   
+### Day 39: August 01, 2021
+  
+### Today's Progress: Prática de JS.
+
+### Day 40: August 02, 2021
+  
+### Today's Progress: Prática de JS + joguinho de lógica.
+  
+  ### Day 41: August 03, 2021
+  
+### Today's Progress: Joguinho de lógica.
   
 <!--[Calculator App](http://www.example.com) -->
 
