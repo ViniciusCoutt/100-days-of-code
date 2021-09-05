@@ -339,10 +339,18 @@ Link to work: [conversaodeunidade](https://github.com/ViniciusCoutt/exercicios-j
 ### Day 40: August 02, 2021
   
 ### Today's Progress: Prática de JS + joguinho de lógica.
+
+Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
   
-  ### Day 41: August 03, 2021
+### Day 41: August 03, 2021
   
 ### Today's Progress: Joguinho de lógica.
+  
+### Day 42: August 04, 2021
+  
+### Today's Progress: Prática de JS + estudo sobre git
+  
+Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
   
 <!--[Calculator App](http://www.example.com) -->
 
