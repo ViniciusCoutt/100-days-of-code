@@ -352,6 +352,8 @@ Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/
   
 Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
   
+Thoughts: Dias bem sobrecarregados, não tem sobrado muito tempo para programar. Porém feliz que estou me inscrevendo nas minhas primeiras vagas. Irei fazer um teste amanhã.
+  
 <!--[Calculator App](http://www.example.com) -->
 
 <!--
