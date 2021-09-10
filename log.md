@@ -179,7 +179,6 @@ Thoughts: Dia produtivo.
 Link to work: 
   [tabuada](https://github.com/ViniciusCoutt/exercicios-js/tree/main/tabuada) e [contador](https://github.com/ViniciusCoutt/exercicios-js/tree/main/contador)
    
-  
 ### Day 20: August 02, 2021
 
 ### Today's Progress: + sobre arrays hoje (Estudo)
@@ -188,10 +187,11 @@ Thoughts:
   
 Link to work:
   
-
+  
 ### Day 21: August 03, 2021
 
-### Today's Progress: Terminei a parte mais chatinha do projeto. Começar tudo do zero é complicado!
+### Today's Progress: 
+  Terminei a parte mais chatinha do projeto. Começar tudo do zero é complicado!
 
 Thoughts:  Ver a teoria de funções e arrays é uma coisa, agora aplicar corretamente já são outros 500. Ao menos a parte mais difícil ja fiz 
   
@@ -201,7 +201,8 @@ Link to work:
   
 ### Day 22: August 04, 2021
 
-### Today's Progress: Terminei o exercício!!! Pratiquei o uso de funções, arrays, e condicionais.
+### Today's Progress: 
+  Terminei o exercício!!! Pratiquei o uso de funções, arrays, e condicionais.
   
 Thoughts: Muito loco quando aquele monte de letrinha começa a fazer sentido KKKKK
   
@@ -211,7 +212,8 @@ Link to work:
   
 ### Day 23: August 05, 2021
 
-### Today's Progress: Só editei o projeto q tava largado. Voltei a edita-lo
+### Today's Progress: 
+  Só editei o projeto q tava largado. Voltei a edita-lo
 
 Thoughts:  Dia meio meh
   
@@ -221,7 +223,8 @@ Link to work:
   
 ### Day 24: August 07, 2021
 
-### Today's Progress: Revisão do projeto js e pratica de css: consertando a responsividade.
+### Today's Progress: 
+  Revisão do projeto js e pratica de css: consertando a responsividade.
 
 Thoughts:  
   
@@ -232,7 +235,8 @@ Link to work:
   
 ### Day 25: August 08, 2021
 
-### Today's Progress: Pratica de css: consertando o footer e editando o title.
+### Today's Progress:
+  Pratica de css: consertando o footer e editando o title.
 
 Thoughts:  
   
@@ -242,23 +246,19 @@ Link to work:
  
 ### Day 26: August 09, 2021
 
-### Today's Progress: Primeira 'aula' de lógica de programação, vscode configurado pra rodar c++, e separado os sites para praticar.
+### Today's Progress: 
+  Primeira 'aula' de lógica de programação, vscode configurado pra rodar c++, e separado os sites para praticar.
 
-Thoughts:  
-  
-Link to work:
- 
 
 ### Day 27: August 10, 2021
 
-### Today's Progress: Pratica de css. Treinando responsividade.
+### Today's Progress: 
+  Pratica de css. Treinando responsividade.
 
 Thoughts: SOFRIMENTO. Acredito que desafios como esse são exemplos de coisas que não são possíveis na construção ( ou são bem difíceis )
   
 Link to work: [RockSide](https://github.com/ViniciusCoutt/rockside)
   
-  
-  https://cssbattle.dev/play/5
 
 ### Day 28: August 12, 2021
   
@@ -271,35 +271,41 @@ Link to work: https://cssbattle.dev/play/5
   
 ### Day 29: August 14, 2021
   
-### Today's Progress: Prática/teoria com o freecodecamp e um pouco de css grid com Grid Garden.
+### Today's Progress: 
+  Prática/teoria com o freecodecamp e um pouco de css grid com Grid Garden.
   
 Thoughts: Um pouco desmotivado com JS. Vou especificar mais os planos essa semana. 
   
   
 ### Day 30: August 16, 2021
   
-### Today's Progress: Dei uma revisada e esclarecida sobre variáveis, objetos e arrays. 
+### Today's Progress: 
+  Dei uma revisada e esclarecida sobre variáveis, objetos e arrays. 
   
 Thoughts: Voltei a ver os vídeos da rocketseat e acho que vou gostar bastante.
   
   
 ### Day 31: August 17, 2021
   
-### Today's Progress: Revisada e esclarecida sobre funções.
+### Today's Progress:
+  Revisada e esclarecida sobre funções.
   
 Thoughts: 'Motivação' voltou! 
   
 ### Day 32: August 18, 2021
   
-### Today's Progress: Entendendo melhor alguns tipos funções e manipulação de dados.
+### Today's Progress:
+  Entendendo melhor alguns tipos funções e manipulação de dados.
   
 ### Day 33: August 19, 2021
   
-### Today's Progress: Vendo novas expressões e operadores importantes e seus conceitos.
+### Today's Progress: 
+  Vendo novas expressões e operadores importantes e seus conceitos.
   
 ### Day 34: August 20, 2021
   
-### Today's Progress: Finalizado o guia estelar de JS da rocketseat, foi muito bom para revisar conceitos e aprender alguns novos. Fiz um dos exercícios 
+### Today's Progress:
+  Finalizado o guia estelar de JS da rocketseat, foi muito bom para revisar conceitos e aprender alguns novos. Fiz um dos exercícios 
 
 Thoughts: Agora sim partir pros exercícios :D
 
@@ -308,7 +314,8 @@ Link to work:
   
 ### Day 35: August 21, 2021
   
-### Today's Progress: Leitura sobre metodologias ágeis. Maior esclarecimento sobre display grid.
+### Today's Progress: 
+  Leitura sobre metodologias ágeis. Maior esclarecimento sobre display grid.
 
 ### Day 36: August 23, 2021
   
@@ -324,31 +331,40 @@ Link to work:
   
 ### Today's Progress: Prática de JS.
 
-Link to work: [fluxodecaixo](https://github.com/ViniciusCoutt/exercicios-js/tree/main/fluxodecaixa)
+Link to work: 
+  [fluxodecaixo](https://github.com/ViniciusCoutt/exercicios-js/tree/main/fluxodecaixa)
+  
   
 ### Day 38: August 30, 2021
   
 ### Today's Progress: Prática de JS.
 
-Link to work: [conversaodeunidade](https://github.com/ViniciusCoutt/exercicios-js/tree/main/conversaodeunidade)
+Link to work:
+  [conversaodeunidade](https://github.com/ViniciusCoutt/exercicios-js/tree/main/conversaodeunidade)
+  
   
 ### Day 39: August 01, 2021
   
 ### Today's Progress: Prática de JS.
 
+  
 ### Day 40: August 02, 2021
   
-### Today's Progress: Prática de JS + joguinho de lógica.
+### Today's Progress: 
+  Prática de JS + joguinho de lógica.
 
 Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
   
+  
 ### Day 41: August 03, 2021
   
-### Today's Progress: Joguinho de lógica.
+### Today's Progress: 
+  Joguinho de lógica.
   
 ### Day 42: August 04, 2021
   
-### Today's Progress: Prática de JS + estudo sobre git
+### Today's 
+  Progress: Prática de JS + estudo sobre git
   
 Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
   
@@ -356,21 +372,25 @@ Thoughts: Dias bem sobrecarregados, não tem sobrado muito tempo para programar.
   
 ### Day 43: August 05, 2021
   
-### Today's Progress: Teste técnico. 5 horas + de programação. Estudo sobre como fazer requisição de api; montagem do html/css do teste; uso de bootstrap; requisição da api e montagem da tabela.
+### Today's Progress: 
+  Teste técnico. 5 horas + de programação. Estudo sobre como fazer requisição de api; montagem do html/css do teste; uso de bootstrap; requisição da api e montagem da tabela.
   
 Link to work: [Desafio Técnico Padawans](https://github.com/ViniciusCoutt/desafio-tecnico-pandawans)
   
 ### Day 44: August 06, 2021
   
-### Today's Progress: Teste técnico. Usei Jquery para fazer a paginação/pesquisa e ordenação das tabelas.
+### Today's Progress: 
+  Teste técnico. Usei Jquery para fazer a paginação/pesquisa e ordenação das tabelas.
   
 Link to work: [Desafio Técnico Padawans](https://github.com/ViniciusCoutt/desafio-tecnico-pandawans)
   
-Thoughts: Consegui fazer tudo, legal demais. Usei framework pela primeira vez. 
+Thoughts: 
+  Consegui fazer tudo, legal demais. Usei framework pela primeira vez. 
   
 ### Day 45: August 07, 2021
   
-### Today's Progress: Tentei fazer o exercício de lógica no JS.
+### Today's Progress:
+  Tentei fazer o exercício de lógica no JS.
 
 <!--  
 ### Day 46: August 08, 2021
