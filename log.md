@@ -354,6 +354,57 @@ Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/
   
 Thoughts: Dias bem sobrecarregados, não tem sobrado muito tempo para programar. Porém feliz que estou me inscrevendo nas minhas primeiras vagas. Irei fazer um teste amanhã.
   
+### Day 43: August 05, 2021
+  
+### Today's Progress: Teste técnico. 5 horas + de programação. Estudo sobre como fazer requisição de api; montagem do html/css do teste; uso de bootstrap; requisição da api e montagem da tabela.
+  
+Link to work: [Desafio Técnico Padawans](https://github.com/ViniciusCoutt/desafio-tecnico-pandawans)
+  
+### Day 44: August 06, 2021
+  
+### Today's Progress: Teste técnico. Usei Jquery para fazer a paginação/pesquisa e ordenação das tabelas.
+  
+Link to work: [Desafio Técnico Padawans](https://github.com/ViniciusCoutt/desafio-tecnico-pandawans)
+  
+Thoughts: Consegui fazer tudo, legal demais. Usei framework pela primeira vez. 
+  
+### Day 45: August 07, 2021
+  
+### Today's Progress: Tentei fazer o exercício de lógica no JS.
+
+<!--  
+### Day 46: August 08, 2021
+  
+### Today's Progress: Prática de JS + estudo sobre git
+  
+Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
+  
+Thoughts: Dias bem sobrecarregados, não tem sobrado muito tempo para programar. Porém feliz que estou me inscrevendo nas minhas primeiras vagas. Irei fazer um teste amanhã.
+  
+### Day 47: August 09, 2021
+  
+### Today's Progress: Prática de JS + estudo sobre git
+  
+Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
+  
+Thoughts: Dias bem sobrecarregados, não tem sobrado muito tempo para programar. Porém feliz que estou me inscrevendo nas minhas primeiras vagas. Irei fazer um teste amanhã.
+  
+### Day 48: August 10, 2021
+  
+### Today's Progress: Prática de JS + estudo sobre git
+  
+Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
+  
+Thoughts: Dias bem sobrecarregados, não tem sobrado muito tempo para programar. Porém feliz que estou me inscrevendo nas minhas primeiras vagas. Irei fazer um teste amanhã.
+  
+### Day 49: August 11, 2021
+  
+### Today's Progress: Prática de JS + estudo sobre git
+  
+Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
+  
+Thoughts: Dias bem sobrecarregados, não tem sobrado muito tempo para programar. Porém feliz que estou me inscrevendo nas minhas primeiras vagas. Irei fazer um teste amanhã.
+  
 <!--[Calculator App](http://www.example.com) -->
 
 <!--
