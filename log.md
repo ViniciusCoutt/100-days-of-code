@@ -343,12 +343,12 @@ Link to work:
   [conversaodeunidade](https://github.com/ViniciusCoutt/exercicios-js/tree/main/conversaodeunidade)
   
   
-### Day 39: August 01, 2021
+### Day 39: September 01, 2021
   
 ### Today's Progress: Prática de JS.
 
   
-### Day 40: August 02, 2021
+### Day 40: September 02, 2021
   
 ### Today's Progress: 
   Prática de JS + joguinho de lógica.
@@ -356,12 +356,12 @@ Link to work:
 Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/tree/main/buscadordelivros)
   
   
-### Day 41: August 03, 2021
+### Day 41: September 03, 2021
   
 ### Today's Progress: 
   Joguinho de lógica.
   
-### Day 42: August 04, 2021
+### Day 42: September 04, 2021
   
 ### Today's 
   Progress: Prática de JS + estudo sobre git
@@ -370,14 +370,14 @@ Link to work: [buscadordelivros](https://github.com/ViniciusCoutt/exercicios-js/
   
 Thoughts: Dias bem sobrecarregados, não tem sobrado muito tempo para programar. Porém feliz que estou me inscrevendo nas minhas primeiras vagas. Irei fazer um teste amanhã.
   
-### Day 43: August 05, 2021
+### Day 43: September 05, 2021
   
 ### Today's Progress: 
   Teste técnico. 5 horas + de programação. Estudo sobre como fazer requisição de api; montagem do html/css do teste; uso de bootstrap; requisição da api e montagem da tabela.
   
 Link to work: [Desafio Técnico Padawans](https://github.com/ViniciusCoutt/desafio-tecnico-pandawans)
   
-### Day 44: August 06, 2021
+### Day 44: September 06, 2021
   
 ### Today's Progress: 
   Teste técnico. Usei Jquery para fazer a paginação/pesquisa e ordenação das tabelas.
@@ -387,10 +387,15 @@ Link to work: [Desafio Técnico Padawans](https://github.com/ViniciusCoutt/desaf
 Thoughts: 
   Consegui fazer tudo, legal demais. Usei framework pela primeira vez. 
   
-### Day 45: August 07, 2021
+### Day 45: September 07, 2021
   
 ### Today's Progress:
   Tentei fazer o exercício de lógica no JS.
+  
+### Day 46: September 13, 2021
+  
+### Today's Progress:
+  Revisão de DOM
 
 <!--  
 ### Day 46: August 08, 2021
